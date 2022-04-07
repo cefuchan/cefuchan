@@ -10,7 +10,6 @@ Here are some ideas to get you started:
 ## I'm a Student 👨‍🎓, Frontend Developer 🚀!
 - 🔭 I am currently developing myself in the frontend field.
 - 🌱 I'm currently learning React.
-- ⚡ I love to code write and play football 
 <br>
 
 ## What we are doing now
