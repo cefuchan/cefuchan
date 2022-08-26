@@ -29,6 +29,3 @@ Here are some ideas to get you started:
 [linkedin]: https://www.linkedin.com/in/cefuchan/
 [gmail]: mailto:caferihsan12@gmail.com
 <br />
-
-<img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=cefuchan&show_icons=true&locale=en&theme=algolia&include_all_commits=true&count_private=true" alt="mukireus"/>
-  <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=cefuchan&show_icons=true&locale=en&layout=compact&langs_count=8&theme=algolia" alt="mukireus"/>
