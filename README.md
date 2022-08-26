@@ -12,8 +12,15 @@ Here are some ideas to get you started:
 - 🌱 I'm currently learning React.
 <br>
 
+## What do i know ???
+- Html
+- Css
+- Javascript
+- Tailwind
+
+
 ## What we are doing now
-<b>React and Jquery
+<b>React and Vuejs
 
 ### 📩 Connect with me:
 
